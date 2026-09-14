@@ -1,5 +1,5 @@
 
-const url = "json/articles.json";
+const url = "http://localhost:5000/articles";
 
 
 function loadArticles() {
